@@ -1,13 +1,9 @@
-
-import TravelPlan from "./components/TravelPlan"
-
-
-
+import Accourdian from "./components/Accourdian"
 
 const App = () => {
   return (
   <>
- <TravelPlan/>
+<Accourdian/>
   </>
   )
 }
